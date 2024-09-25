@@ -1,0 +1,19 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#4824
+    [34mall[39m: [
+      [34;4mApp\Models\Comment[39;24m {#4823
+        [34mid[39m: [35m1[39m,
+        [34mbody[39m: "[32mcomment 1[39m",
+        [34mpost_id[39m: [35m1[39m,
+        [34mcreated_at[39m: "[32m2024-09-19 15:24:03[39m",
+        [34mupdated_at[39m: "[32m2024-09-19 15:24:03[39m",
+      },
+      [34;4mApp\Models\Comment[39;24m {#4820
+        [34mid[39m: [35m2[39m,
+        [34mbody[39m: "[32mcomment 2[39m",
+        [34mpost_id[39m: [35m1[39m,
+        [34mcreated_at[39m: "[32m2024-09-19 15:24:34[39m",
+        [34mupdated_at[39m: "[32m2024-09-19 15:24:34[39m",
+      },
+    ],
+  }
+
